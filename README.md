@@ -13,7 +13,7 @@ Welcome to the Carenuity IoT Solutions Guide! This repository provides a plug-an
 ---
 
 ## Overview
-This solution enables you to create a presence detector using the ESP32 microcontroller and Button Shield. The project is designed for simplicity and ease of use, making it ideal for beginners and experienced developers alike. The pre-configured firmware is available for free at [Carenuity Solutions](https://www.solutions.carenuity.com).
+This solution enables you to create a presence detector using the ESP32 microcontroller and Button Shield. The project is designed for simplicity and ease of use, making it ideal for beginners and experienced developers alike. The pre-configured firmware is available for free at [Carenuity Solutions](https://solutions.carenuity.com).
 
 ---
 
@@ -32,7 +32,7 @@ Before you begin, ensure you have:
    - **Button Shield**
    - **0.66" OLED Display** (optional, for visual feedback)
    - **S-M-A Triple Adapter** (optional, for easy assembly)
-4. A stable internet connection for accessing [Carenuity Solutions](https://www.solutions.carenuity.com).
+4. A stable internet connection for accessing [Carenuity Solutions](https://solutions.carenuity.com).
 
 ---
 
@@ -54,7 +54,7 @@ Visit [ChipGlobe Shop](https://www.chipglobe.shop/en) to purchase the required c
 3. **Power the Board**: Use a USB cable to connect the ESP32 to your computer.
 
 ### Step 3: Install Firmware
-1. Open a web browser and navigate to [Carenuity Solutions](https://www.solutions.carenuity.com).
+1. Open a web browser and navigate to [Carenuity Solutions](https://solutions.carenuity.com).
 2. Select the **Presence Detector** solution from the list of available firmware.
 3. Follow the on-screen instructions to flash the firmware to your ESP32 board.
 4. Once flashing is complete, the board will restart and run the installed application.
@@ -85,7 +85,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Additional Resources
 - **ChipGlobe Shop**: [https://www.chipglobe.shop/en](https://www.chipglobe.shop/en)
-- **Carenuity Solutions**: [https://www.solutions.carenuity.com](https://www.solutions.carenuity.com)
+- **Carenuity Solutions**: [https://www.solutions.carenuity.com](https://solutions.carenuity.com)
 - **Internship & Training Opportunities**: Visit [ChipGlobe](https://www.chipglobe.com) or [Carenuity](https://www.carenuity.com).
 
 ---
